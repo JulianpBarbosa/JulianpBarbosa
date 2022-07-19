@@ -18,7 +18,7 @@ As vezes ajudo na <a href="https://b3web.com.br">B3 Web</a>, dá uma olhada.<br>
 <br>
 
 <div margin-left= 50px>
-
+  
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
 <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -34,8 +34,12 @@ As vezes ajudo na <a href="https://b3web.com.br">B3 Web</a>, dá uma olhada.<br>
 <img align="center" alt="Visual Studio Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 
 </div>
+  
+  <br>
 
 <div>
+  
+  
 <a href="https://www.instagram.com/julian_barbosa24/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/willicaolho" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -46,6 +50,7 @@ As vezes ajudo na <a href="https://b3web.com.br">B3 Web</a>, dá uma olhada.<br>
 
 <div>
 
-<img src="https://i.giphy.com/media/vVlvv4HNJksUM/giphy.gif">
+<img src="https://media3.giphy.com/media/NKEt9elQ5cR68/giphy.gif?cid=ecf05e47ojirlio0dxgq3r1sdkpjg9vsg6nwp6h9z387rnbb&rid=giphy.gif&ct=g">
+  
 
 </div>
