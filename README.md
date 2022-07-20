@@ -12,7 +12,7 @@ As vezes ajudo na <a href="https://b3web.com.br">B3 Web</a>, dá uma olhada.<br>
 
 <div align="left">
   <a href="https://github.com/JulianpBarbosa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianpBarbosa&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianpbarbosa&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <br>
