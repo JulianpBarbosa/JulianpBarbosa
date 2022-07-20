@@ -52,5 +52,5 @@ As vezes ajudo na <a href="https://b3web.com.br">B3 Web</a>, dá uma olhada.<br>
 
 <img src="https://media3.giphy.com/media/NKEt9elQ5cR68/giphy.gif?cid=ecf05e47ojirlio0dxgq3r1sdkpjg9vsg6nwp6h9z387rnbb&rid=giphy.gif&ct=g">
   
-
+![Snake animation](https://github.com/julianpbarbosa/julianpbarbosa/blob/output/github-contribution-grid-snake.svg)
 </div>
